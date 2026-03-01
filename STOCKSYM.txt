@@ -1,0 +1,9 @@
+stock_prices = {
+    "RELIANCE": 2500,
+    "TCS": 3800,
+    "INFY": 1500,
+    "HDFCBANK": 1600,
+    "ICICIBANK": 1000,
+    "SBIN": 600,
+    "ITC": 450
+}
